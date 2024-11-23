@@ -9,5 +9,6 @@ This project demonstrates an end-to-end data analysis pipeline:
 
 **Data Analysis**: Conducted insights-driven analysis using SQL queries. saved in a reusable query file  
 
-Tools: Python, Pandas, SQL Server, Kaggle API.
+**Tools**: Python, SQL Server.  
+**Libraries**: Numpy, Pandas, sqlalchemy, pyodbc, Kaggle API.
 
